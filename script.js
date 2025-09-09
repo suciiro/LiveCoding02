@@ -6,3 +6,4 @@ let karakter = 'hello'
 // }
 // console.log()
 
+let hitung = karakter.map((item) => )
